@@ -49,8 +49,10 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ```
 ## Output
-![iamge 1](<Screenshot 2024-12-26 201943.png>)
-![iamge 2](<Screenshot 2024-12-26 202006.png>)
+![Screenshot 2024-12-30 144014](https://github.com/user-attachments/assets/3df29d3b-825e-455d-b4bd-b50a9e295048)
+![Screenshot 2024-12-30 144045](https://github.com/user-attachments/assets/390a99d0-6e3b-4187-ad70-7bdfc780db29)
+![Screenshot 2024-12-30 144056](https://github.com/user-attachments/assets/6182c414-4259-416a-9bf5-0e4109cf22e8)
+![Screenshot 2024-12-30 144105](https://github.com/user-attachments/assets/6a0e6a99-1277-410b-9b6a-19f98732d2a8)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
